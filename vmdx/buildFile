@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VASSAL.build.module.ModuleExtension anyModule="false" description="High Frontier BGG Export by Scott Dunnigton" extensionId="e53" module="High Frontier" moduleVersion="0.3" nextPieceSlotId="0" vassalVersion="3.2.17" version="0.1">
+    <VASSAL.build.module.ExtensionElement target="VASSAL.build.module.Map:Patent Decks">
+        <ExportBGG.TextSaverBGG buttonText="Export BGG" hotkey="" icon="bgg_cornerlogo_24.png" tooltip="Export BGG Play by Forum Format"/>
+    </VASSAL.build.module.ExtensionElement>
+</VASSAL.build.module.ModuleExtension>
